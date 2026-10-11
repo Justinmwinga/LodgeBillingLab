@@ -1,0 +1,3 @@
+Poppins (Indian Type Foundry) and Lora (Cyreal) are licensed under the
+SIL Open Font License, Version 1.1 (https://openfontlicense.org).
+They are bundled so the interface looks the same on every computer.
